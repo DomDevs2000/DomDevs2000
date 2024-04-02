@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I am a full-stack programming enthusiast, equipped with a diverse skill set and experience in various aspects of software development. With expertise in design, testing, implementation, and cloud deployment infrastructure (AWS), I have honed my craft in creating dynamic, cutting-edge full-stack web applications. Utilising technologies such as React, Typescript, Node.js, and Java, I bring a wealth of knowledge and passion to every project I undertake.
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DomDevs2000&show_icons=true&theme=radical"/>
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomDevs2000&layout=compact&show_icons=true&theme=radical")/>
 
